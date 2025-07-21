@@ -20,6 +20,6 @@ Calculadora simples em Python com interface gráfica.
 <br>
 
 <div display: inline_block align="center">
-  <img src="img/screenshot1.png" alt="Screenchot1"/>
-  <img src="img/screenshot2.png" alt="Screenchot2"/>
+  <img src="img/Screenshot1.png" alt="Screenchot1"/>
+  <img src="img/Screenshot2.png" alt="Screenchot2"/>
 </div>
